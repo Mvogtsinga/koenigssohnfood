@@ -1,0 +1,1 @@
+web: gunicorn Koenigssohn_Food.wsgi
